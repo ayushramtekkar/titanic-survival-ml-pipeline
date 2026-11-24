@@ -2,7 +2,7 @@
 
 A complete supervised learning workflow on the Titanic passenger data, framed for a travel insurance and maritime risk company exploring whether booking information alone can estimate passenger risk.
 
-**[View the full notebook with all outputs](https://GH_USER.github.io/titanic-survival-ml-pipeline/)**
+**[View the full notebook with all outputs](https://ayushramtekkar.github.io/titanic-survival-ml-pipeline/)**
 
 ## Approach
 
@@ -30,4 +30,4 @@ Python, pandas, NumPy, scikit-learn, Matplotlib
 
 ## Notes
 
-Completed as an individual project for M505 Introduction to AI and Machine Learning, MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
+Completed as part of the MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
